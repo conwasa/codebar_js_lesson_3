@@ -37,4 +37,3 @@ $( function () {
 /*	$(this).val("Enter key pressed");  */                       
     });
 });
-/* added autofocus to the input box html so cursor is in box on page load
